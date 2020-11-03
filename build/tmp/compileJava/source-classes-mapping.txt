@@ -1,0 +1,8 @@
+dev/adamgibbs/themepark/controller/ThemeParkRideController.java
+ dev.adamgibbs.themepark.controller.ThemeParkRideController
+dev/adamgibbs/themepark/entity/ThemeParkRide.java
+ dev.adamgibbs.themepark.entity.ThemeParkRide
+dev/adamgibbs/themepark/ThemeParkApplication.java
+ dev.adamgibbs.themepark.ThemeParkApplication
+dev/adamgibbs/themepark/repository/ThemeParkRideRepository.java
+ dev.adamgibbs.themepark.repository.ThemeParkRideRepository
