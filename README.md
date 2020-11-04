@@ -35,6 +35,6 @@ An example project to test:
 
 ## Using API
 
-* get all rides - GET [/ride](http://localhost:80/ride) to get a list of all the rides
-* get specific ride - GET [/ride/${id}](http://localhost:80/ride/1) to get a specific ride
-* create ride - POST JSON to [/ride](http://localhost:80/ride) to create a new ride 
+* get all rides - GET [/ride](http://localhost:8080/ride) to get a list of all the rides
+* get specific ride - GET [/ride/${id}](http://localhost:8080/ride/1) to get a specific ride
+* create ride - POST JSON to [/ride](http://localhost:8080/ride) to create a new ride 
